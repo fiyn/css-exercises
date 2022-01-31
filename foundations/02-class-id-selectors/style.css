@@ -1,0 +1,20 @@
+
+.kelas {
+    background-color: #FFA7A7;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#aidiSatu {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.kelas.cooler {
+    font-size: 24px;
+}
+
+#aidiDua {
+    background-color: #80FF80;
+    font-size: 24px;
+    font-weight: bold;
+}
